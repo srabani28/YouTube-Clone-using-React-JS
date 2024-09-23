@@ -1,10 +1,8 @@
-# YouTube-Clone-using-React-JS
-A fully functional YouTube Clone built using React JS. The project replicates core YouTube features like video search, video listing, and playback. It integrates with the YouTube API to fetch and display real-time video data. The responsive design ensures seamless user experience across devices.
+# React + Vite
 
-Key Features:
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Video Search Functionality: Allows users to search for videos.
-Video Playback: Embedded player for watching videos.
-Responsive Design: Optimized for both desktop and mobile.
-YouTube API Integration: Fetches dynamic video data.
-Modular React Components: Ensures scalability and maintainability.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
